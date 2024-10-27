@@ -1,7 +1,7 @@
 Concepts:
 - open-source
 - local file storage/structure
-- activity files can be download e.g. in Excel CSV per fields
+- activity files can be download e.g. in Excel CSV per fields (all fields, etc ...)
 
 Data model:
 - farm field (id, ...) 
