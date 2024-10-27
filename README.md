@@ -1,6 +1,6 @@
 Concepts:
 - open-source
-- local file storage/structure
+- local storage: file or db (sql vs nosql)
 - activity files can be download e.g. in Excel CSV per fields (all fields, etc ...)
 - projects/workspaces (people can be invited)
 - bottleneck: store model locally / sync to cloud
