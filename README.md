@@ -6,7 +6,8 @@ Concepts:
 - bottleneck: store model locally / sync to cloud
 
 Data model:
-- farm field (id, ...) 
+- project/workspace 
+- farm field (id, ..., project_id) 
   e.g. a polygon with name id
 - activities (id, ... farm_id ...)
   e.g. permezetés 2024.06.20.
